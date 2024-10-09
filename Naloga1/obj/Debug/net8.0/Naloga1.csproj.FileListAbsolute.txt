@@ -1,0 +1,42 @@
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\bin\Debug\net8.0\Naloga1.exe
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\bin\Debug\net8.0\Naloga1.deps.json
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\bin\Debug\net8.0\Naloga1.runtimeconfig.json
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\bin\Debug\net8.0\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\bin\Debug\net8.0\Naloga1.pdb
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.AssemblyInfoInputs.cache
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.AssemblyInfo.cs
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.csproj.CoreCompileInputs.cache
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\refint\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.pdb
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\Naloga1.genruntimeconfig.cache
+C:\Users\arnis\OneDrive - Univerza v Mariboru\NAPREDNO PROGRAMIRANJE\Naloga1\obj\Debug\net8.0\ref\Naloga1.dll
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.exe
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.deps.json
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.runtimeconfig.json
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.dll
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.pdb
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.AssemblyInfoInputs.cache
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.AssemblyInfo.cs
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.csproj.CoreCompileInputs.cache
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.dll
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\refint\Naloga1.dll
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.pdb
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.genruntimeconfig.cache
+C:\Users\Test\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\ref\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.exe
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.deps.json
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.runtimeconfig.json
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\bin\Debug\net8.0\Naloga1.pdb
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.AssemblyInfoInputs.cache
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.AssemblyInfo.cs
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.csproj.CoreCompileInputs.cache
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\refint\Naloga1.dll
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.pdb
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\Naloga1.genruntimeconfig.cache
+C:\Users\arnis\OneDrive - Univerza v Mariboru\2.LETNIK\ARHITEKTURE INFORMACIJSKIH SISTEMOV\Naloga1\obj\Debug\net8.0\ref\Naloga1.dll
